@@ -1,1 +1,205 @@
-[{"Destination": "Anand Vihar I.S.B.T. Terminal", "Time": "7:27 am"}, {"Destination": "Manglapuri", "Time": "7:30 am"}, {"Destination": "Sector 34", "Time": "7:30 am"}, {"Destination": "Anand Vihar I.S.B.T. Terminal", "Time": "7:30 am"}, {"Destination": "Anand Vihar I.S.B.T. Terminal", "Time": "7:30 am"}, {"Destination": "Old Delhi Railway Station", "Time": "7:32 am"}, {"Destination": "Anand Vihar I.S.B.T. Terminal", "Time": "7:35 am"}, {"Destination": "Kanjhawala Village", "Time": "7:36 am"}, {"Destination": "Anand Vihar I.S.B.T. Terminal", "Time": "7:37 am"}, {"Destination": "Anand Vihar I.S.B.T. Terminal", "Time": "7:40 am"}, {"Destination": "Manglapuri", "Time": "7:40 am"}, {"Destination": "F Block Raghubir Nagar", "Time": "7:40 am"}, {"Destination": "Sector 34", "Time": "7:40 am"}, {"Destination": "IGI Airport Terminal-3", "Time": "7:40 am"}, {"Destination": "Anand Vihar I.S.B.T. Terminal", "Time": "7:40 am"}, {"Destination": "Anand Vihar I.S.B.T. Terminal", "Time": "7:45 am"}, {"Destination": "Anand Vihar I.S.B.T. Terminal", "Time": "7:47 am"}, {"Destination": "Kanjhawala Village", "Time": "7:48 am"}, {"Destination": "Anand Vihar I.S.B.T. Terminal", "Time": "7:50 am"}, {"Destination": "Manglapuri", "Time": "7:50 am"}, {"Destination": "Anand Vihar I.S.B.T. Terminal", "Time": "7:50 am"}, {"Destination": "Sector 34", "Time": "7:50 am"}, {"Destination": "Old Delhi Railway Station", "Time": "7:52 am"}, {"Destination": "Qamruddin Nagar", "Time": "7:55 am"}, {"Destination": "Anand Vihar I.S.B.T. Terminal", "Time": "7:57 am"}]
+{
+    "updated": "2017-11-27", 
+    "lines": {
+        "863": {
+            "exeptions": [], 
+            "to": "Hastsal Village", 
+            "from": "I.S.B.T. Kashmere Gate", 
+            "stations": [
+                "I.S.B.T. Kashmere Gate", 
+                "Hastsal Village"
+            ], 
+            "services": [
+                "Mo-Sa"
+            ], 
+            "time": [
+                [
+                    "6:50 pm", 
+                    "10:27 am"
+                ], 
+                [
+                    "7:10 pm", 
+                    "10:27 am"
+                ]
+            ]
+        }, 
+        "182ACL": {
+            "exeptions": [], 
+            "to": "Kanjhawala Village", 
+            "from": "I.S.B.T. Kashmere Gate", 
+            "stations": [
+                "I.S.B.T. Kashmere Gate", 
+                "Kanjhawala Village"
+            ], 
+            "services": [
+                "Mo-Sa"
+            ], 
+            "time": [
+                [
+                    "7:00 pm", 
+                    "10:27 am"
+                ], 
+                [
+                    "7:12 pm", 
+                    "10:27 am"
+                ], 
+                [
+                    "7:24 pm", 
+                    "10:27 am"
+                ], 
+                [
+                    "7:36 pm", 
+                    "10:27 am"
+                ], 
+                [
+                    "7:48 pm", 
+                    "10:27 am"
+                ]
+            ]
+        }, 
+        "Express 4": {
+            "exeptions": [], 
+            "to": "IGI Airport Terminal-3", 
+            "from": "I.S.B.T. Kashmere Gate", 
+            "stations": [
+                "I.S.B.T. Kashmere Gate", 
+                "IGI Airport Terminal-3"
+            ], 
+            "services": [
+                "Mo-Sa"
+            ], 
+            "time": [
+                [
+                    "6:50 pm", 
+                    "10:27 am"
+                ]
+            ]
+        }, 
+        "939": {
+            "exeptions": [], 
+            "to": "Q Block Mangolpuri Terminal", 
+            "from": "I.S.B.T. Kashmere Gate", 
+            "stations": [
+                "I.S.B.T. Kashmere Gate", 
+                "Q Block Mangolpuri Terminal"
+            ], 
+            "services": [
+                "Mo-Sa"
+            ], 
+            "time": [
+                [
+                    "7:20 pm", 
+                    "10:27 am"
+                ]
+            ]
+        }, 
+        "347": {
+            "exeptions": [], 
+            "to": "Sector 34", 
+            "from": "I.S.B.T. Kashmere Gate", 
+            "stations": [
+                "I.S.B.T. Kashmere Gate", 
+                "Sector 34"
+            ], 
+            "services": [
+                "Mo-Sa"
+            ], 
+            "time": [
+                [
+                    "6:50 pm", 
+                    "10:27 am"
+                ], 
+                [
+                    "7:00 pm", 
+                    "10:27 am"
+                ], 
+                [
+                    "7:10 pm", 
+                    "10:27 am"
+                ], 
+                [
+                    "7:30 pm", 
+                    "10:27 am"
+                ]
+            ]
+        }, 
+        "GL-23": {
+            "exeptions": [], 
+            "to": "Anand Vihar I.S.B.T. Terminal", 
+            "from": "I.S.B.T. Kashmere Gate", 
+            "stations": [
+                "I.S.B.T. Kashmere Gate", 
+                "Anand Vihar I.S.B.T. Terminal"
+            ], 
+            "services": [
+                "Mo-Sa"
+            ], 
+            "time": [
+                [
+                    "6:45 pm", 
+                    "10:27 am"
+                ], 
+                [
+                    "7:00 pm", 
+                    "10:27 am"
+                ], 
+                [
+                    "7:15 pm", 
+                    "10:27 am"
+                ], 
+                [
+                    "7:30 pm", 
+                    "10:27 am"
+                ], 
+                [
+                    "7:35 pm", 
+                    "10:27 am"
+                ], 
+                [
+                    "7:40 pm", 
+                    "10:27 am"
+                ], 
+                [
+                    "7:50 pm", 
+                    "10:27 am"
+                ]
+            ]
+        }, 
+        "721": {
+            "exeptions": [], 
+            "to": "Manglapuri", 
+            "from": "I.S.B.T. Kashmere Gate", 
+            "stations": [
+                "I.S.B.T. Kashmere Gate", 
+                "Manglapuri"
+            ], 
+            "services": [
+                "Mo-Sa"
+            ], 
+            "time": [
+                [
+                    "6:48 pm", 
+                    "10:27 am"
+                ], 
+                [
+                    "6:50 pm", 
+                    "10:27 am"
+                ], 
+                [
+                    "7:10 pm", 
+                    "10:27 am"
+                ], 
+                [
+                    "7:30 pm", 
+                    "10:27 am"
+                ], 
+                [
+                    "7:45 pm", 
+                    "10:27 am"
+                ]
+            ]
+        }
+    }, 
+    "start_date": "2017-11-01", 
+    "end_date": "2020-10-31"
+}

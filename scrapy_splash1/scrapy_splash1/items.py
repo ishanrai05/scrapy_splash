@@ -12,7 +12,8 @@ class MapItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
     
-    item1 = scrapy.Field()
-    item2 = scrapy.Field()
-    item3 = scrapy.Field()
+    to = scrapy.Field()
+    from_ = scrapy.Field()
+    time = scrapy.Field()
+    lines = scrapy.Field()
 

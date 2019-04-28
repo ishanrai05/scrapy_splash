@@ -1,0 +1,515 @@
+{
+    "updated": "2017-11-27", 
+    "lines": {
+        "473A": {
+            "exeptions": [], 
+            "to": "Hamdard Nagar / Sangam Vihar", 
+            "from": "Anand Vihar ISBT Terminal", 
+            "stations": [
+                "Anand Vihar ISBT Terminal", 
+                "Hamdard Nagar / Sangam Vihar"
+            ], 
+            "services": [
+                "Mo-Sa"
+            ], 
+            "time": [
+                [
+                    "3:27 pm", 
+                    "10:27 am"
+                ]
+            ]
+        }, 
+        "534A": {
+            "exeptions": [], 
+            "to": "Nehru Place", 
+            "from": "Anand Vihar ISBT Terminal", 
+            "stations": [
+                "Anand Vihar ISBT Terminal", 
+                "Nehru Place"
+            ], 
+            "services": [
+                "Mo-Sa"
+            ], 
+            "time": [
+                [
+                    "3:25 pm", 
+                    "10:27 am"
+                ]
+            ]
+        }, 
+        "236": {
+            "exeptions": [], 
+            "to": "Qamruddin Nagar", 
+            "from": "Anand Vihar ISBT Terminal", 
+            "stations": [
+                "Anand Vihar ISBT Terminal", 
+                "Qamruddin Nagar"
+            ], 
+            "services": [
+                "Mo-Sa"
+            ], 
+            "time": [
+                [
+                    "3:30 pm", 
+                    "10:27 am"
+                ]
+            ]
+        }, 
+        "311A": {
+            "exeptions": [], 
+            "to": "Ambedkar Nagar Depot", 
+            "from": "Anand Vihar ISBT Terminal", 
+            "stations": [
+                "Anand Vihar ISBT Terminal", 
+                "Ambedkar Nagar Depot"
+            ], 
+            "services": [
+                "Mo-Sa"
+            ], 
+            "time": [
+                [
+                    "3:28 pm", 
+                    "10:27 am"
+                ]
+            ]
+        }, 
+        "85": {
+            "exeptions": [], 
+            "to": "Punjabi Bagh Terminal", 
+            "from": "Anand Vihar ISBT Terminal", 
+            "stations": [
+                "Anand Vihar ISBT Terminal", 
+                "Punjabi Bagh Terminal"
+            ], 
+            "services": [
+                "Mo-Sa"
+            ], 
+            "time": [
+                [
+                    "3:25 pm", 
+                    "10:27 am"
+                ]
+            ]
+        }, 
+        "971": {
+            "exeptions": [], 
+            "to": "Avantika Sector 2", 
+            "from": "Anand Vihar ISBT Terminal", 
+            "stations": [
+                "Anand Vihar ISBT Terminal", 
+                "Avantika Sector 2"
+            ], 
+            "services": [
+                "Mo-Sa"
+            ], 
+            "time": [
+                [
+                    "3:22 pm", 
+                    "10:27 am"
+                ]
+            ]
+        }, 
+        "182ACL": {
+            "exeptions": [], 
+            "to": "Kanjhawala Village", 
+            "from": "I.S.B.T. Kashmere Gate", 
+            "stations": [
+                "I.S.B.T. Kashmere Gate", 
+                "Kanjhawala Village"
+            ], 
+            "services": [
+                "Mo-Sa"
+            ], 
+            "time": [
+                [
+                    "3:24 pm", 
+                    "10:27 am"
+                ], 
+                [
+                    "3:36 pm", 
+                    "10:27 am"
+                ], 
+                [
+                    "3:48 pm", 
+                    "10:27 am"
+                ]
+            ]
+        }, 
+        "347": {
+            "exeptions": [], 
+            "to": "Sector 34", 
+            "from": "I.S.B.T. Kashmere Gate", 
+            "stations": [
+                "I.S.B.T. Kashmere Gate", 
+                "Sector 34"
+            ], 
+            "services": [
+                "Mo-Sa"
+            ], 
+            "time": [
+                [
+                    "3:30 pm", 
+                    "10:27 am"
+                ], 
+                [
+                    "3:40 pm", 
+                    "10:27 am"
+                ], 
+                [
+                    "3:50 pm", 
+                    "10:27 am"
+                ]
+            ]
+        }, 
+        "473CL": {
+            "exeptions": [], 
+            "to": "Badarpur Border", 
+            "from": "Anand Vihar ISBT Terminal", 
+            "stations": [
+                "Anand Vihar ISBT Terminal", 
+                "Badarpur Border"
+            ], 
+            "services": [
+                "Mo-Sa"
+            ], 
+            "time": [
+                [
+                    "3:22 pm", 
+                    "10:27 am"
+                ]
+            ]
+        }, 
+        "469": {
+            "exeptions": [], 
+            "to": "Ambedkar Nagar Depot", 
+            "from": "Anand Vihar ISBT Terminal", 
+            "stations": [
+                "Anand Vihar ISBT Terminal", 
+                "Ambedkar Nagar Depot"
+            ], 
+            "services": [
+                "Mo-Sa"
+            ], 
+            "time": [
+                [
+                    "3:23 pm", 
+                    "10:27 am"
+                ]
+            ]
+        }, 
+        "GL-23": {
+            "exeptions": [], 
+            "to": "Anand Vihar I.S.B.T. Terminal", 
+            "from": "I.S.B.T. Kashmere Gate", 
+            "stations": [
+                "I.S.B.T. Kashmere Gate", 
+                "Anand Vihar I.S.B.T. Terminal"
+            ], 
+            "services": [
+                "Mo-Sa"
+            ], 
+            "time": [
+                [
+                    "3:25 pm", 
+                    "10:27 am"
+                ], 
+                [
+                    "3:27 pm", 
+                    "10:27 am"
+                ], 
+                [
+                    "3:30 pm", 
+                    "10:27 am"
+                ], 
+                [
+                    "3:35 pm", 
+                    "10:27 am"
+                ], 
+                [
+                    "3:37 pm", 
+                    "10:27 am"
+                ], 
+                [
+                    "3:40 pm", 
+                    "10:27 am"
+                ], 
+                [
+                    "3:40 pm", 
+                    "10:27 am"
+                ], 
+                [
+                    "3:47 pm", 
+                    "10:27 am"
+                ], 
+                [
+                    "3:50 pm", 
+                    "10:27 am"
+                ], 
+                [
+                    "3:55 pm", 
+                    "10:27 am"
+                ], 
+                [
+                    "3:55 pm", 
+                    "10:27 am"
+                ], 
+                [
+                    "3:57 pm", 
+                    "10:27 am"
+                ], 
+                [
+                    "4:00 pm", 
+                    "10:27 am"
+                ], 
+                [
+                    "3:25 pm", 
+                    "10:27 am"
+                ], 
+                [
+                    "3:30 pm", 
+                    "10:27 am"
+                ]
+            ]
+        }, 
+        "Express 4": {
+            "exeptions": [], 
+            "to": "IGI Airport Terminal-3", 
+            "from": "I.S.B.T. Kashmere Gate", 
+            "stations": [
+                "I.S.B.T. Kashmere Gate", 
+                "IGI Airport Terminal-3"
+            ], 
+            "services": [
+                "Mo-Sa"
+            ], 
+            "time": [
+                [
+                    "3:35 pm", 
+                    "10:27 am"
+                ], 
+                [
+                    "3:50 pm", 
+                    "10:27 am"
+                ], 
+                [
+                    "4:00 pm", 
+                    "10:27 am"
+                ]
+            ]
+        }, 
+        "543A": {
+            "exeptions": [], 
+            "to": "Kapashera Border", 
+            "from": "Anand Vihar ISBT Terminal", 
+            "stations": [
+                "Anand Vihar ISBT Terminal", 
+                "Kapashera Border"
+            ], 
+            "services": [
+                "Mo-Sa"
+            ], 
+            "time": [
+                [
+                    "3:25 pm", 
+                    "10:27 am"
+                ], 
+                [
+                    "3:30 pm", 
+                    "10:27 am"
+                ]
+            ]
+        }, 
+        "73": {
+            "exeptions": [], 
+            "to": "Hari Nagar Shaheed Pawan Sahni Chowk", 
+            "from": "Anand Vihar ISBT Terminal", 
+            "stations": [
+                "Anand Vihar ISBT Terminal", 
+                "Hari Nagar Shaheed Pawan Sahni Chowk"
+            ], 
+            "services": [
+                "Mo-Sa"
+            ], 
+            "time": [
+                [
+                    "3:27 pm", 
+                    "10:27 am"
+                ], 
+                [
+                    "3:30 pm", 
+                    "10:27 am"
+                ]
+            ]
+        }, 
+        "165": {
+            "exeptions": [], 
+            "to": "B Block Shahbad Dairy", 
+            "from": "Anand Vihar ISBT Terminal", 
+            "stations": [
+                "Anand Vihar ISBT Terminal", 
+                "B Block Shahbad Dairy"
+            ], 
+            "services": [
+                "Mo-Sa"
+            ], 
+            "time": [
+                [
+                    "3:24 pm", 
+                    "10:27 am"
+                ], 
+                [
+                    "3:27 pm", 
+                    "10:27 am"
+                ]
+            ]
+        }, 
+        "85Ext": {
+            "exeptions": [], 
+            "to": "West Enclave", 
+            "from": "Anand Vihar ISBT Terminal", 
+            "stations": [
+                "Anand Vihar ISBT Terminal", 
+                "West Enclave"
+            ], 
+            "services": [
+                "Mo-Sa"
+            ], 
+            "time": [
+                [
+                    "3:25 pm", 
+                    "10:27 am"
+                ]
+            ]
+        }, 
+        "221": {
+            "exeptions": [], 
+            "to": "Mori Gate", 
+            "from": "Anand Vihar ISBT Terminal", 
+            "stations": [
+                "Anand Vihar ISBT Terminal", 
+                "Mori Gate"
+            ], 
+            "services": [
+                "Mo-Sa"
+            ], 
+            "time": [
+                [
+                    "3:24 pm", 
+                    "10:27 am"
+                ], 
+                [
+                    "3:28 pm", 
+                    "10:27 am"
+                ]
+            ]
+        }, 
+        "740EXT": {
+            "exeptions": [], 
+            "to": "Uttam Nagar Terminal", 
+            "from": "Anand Vihar ISBT Terminal", 
+            "stations": [
+                "Anand Vihar ISBT Terminal", 
+                "Uttam Nagar Terminal"
+            ], 
+            "services": [
+                "Mo-Sa"
+            ], 
+            "time": [
+                [
+                    "3:23 pm", 
+                    "10:27 am"
+                ], 
+                [
+                    "3:26 pm", 
+                    "10:27 am"
+                ]
+            ]
+        }, 
+        "88A": {
+            "exeptions": [], 
+            "to": "Tri Nagar Jai Mata Market", 
+            "from": "Anand Vihar ISBT Terminal", 
+            "stations": [
+                "Anand Vihar ISBT Terminal", 
+                "Tri Nagar Jai Mata Market"
+            ], 
+            "services": [
+                "Mo-Sa"
+            ], 
+            "time": [
+                [
+                    "3:28 pm", 
+                    "10:27 am"
+                ]
+            ]
+        }, 
+        "534": {
+            "exeptions": [], 
+            "to": "Mehrauli Terminal", 
+            "from": "Anand Vihar ISBT Terminal", 
+            "stations": [
+                "Anand Vihar ISBT Terminal", 
+                "Mehrauli Terminal"
+            ], 
+            "services": [
+                "Mo-Sa"
+            ], 
+            "time": [
+                [
+                    "3:23 pm", 
+                    "10:27 am"
+                ], 
+                [
+                    "3:27 pm", 
+                    "10:27 am"
+                ]
+            ]
+        }, 
+        "723": {
+            "exeptions": [], 
+            "to": "Manglapuri Village", 
+            "from": "Anand Vihar ISBT Terminal", 
+            "stations": [
+                "Anand Vihar ISBT Terminal", 
+                "Manglapuri Village"
+            ], 
+            "services": [
+                "Mo-Sa"
+            ], 
+            "time": [
+                [
+                    "3:26 pm", 
+                    "10:27 am"
+                ]
+            ]
+        }, 
+        "721": {
+            "exeptions": [], 
+            "to": "Manglapuri", 
+            "from": "I.S.B.T. Kashmere Gate", 
+            "stations": [
+                "I.S.B.T. Kashmere Gate", 
+                "Manglapuri"
+            ], 
+            "services": [
+                "Mo-Sa"
+            ], 
+            "time": [
+                [
+                    "3:28 pm", 
+                    "10:27 am"
+                ], 
+                [
+                    "3:30 pm", 
+                    "10:27 am"
+                ], 
+                [
+                    "3:40 pm", 
+                    "10:27 am"
+                ]
+            ]
+        }
+    }, 
+    "start_date": "2017-11-01", 
+    "end_date": "2020-10-31"
+}
